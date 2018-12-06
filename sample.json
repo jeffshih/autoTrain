@@ -1,0 +1,1 @@
+{"cls_mapper": {"Shotgun": "Handgun", "Rifle": "Handgun"}, "cls_order": ["__background__", "Rifle", "Handgun", "Shotgun"],"gpu_id":"1"}

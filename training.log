@@ -1,0 +1,10 @@
+gpu_id =  0
+total_class =  12
+[u'__background__', u'Shotgun', u'Rifle', u'Handgun', u'Knife', u'Sword', u'Kitchen knife', u'Dagger', u'Baseball bat', u'Backpack', u'Handbag', u'Suitcase', u'Luggage and bags']
+{u'Dagger': u'Sword', u'Kitchen knife': u'Knife'}
+Total: 0 images
+Meta data path: /root/data/data-openImages_v4/meta.json does not exist. Use Default meta data
+images set loaded
+Set proposal method: gt
+Preparing training data...
+done
